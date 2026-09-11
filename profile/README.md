@@ -1,12 +1,22 @@
-## Hi there 👋
+# Glint
 
-<!--
+**Real app UI → Play Store & App Store screenshots.**
 
-**Here are some ideas to get you started:**
+Capture from Flutter or Android, polish in the browser, export a store-ready ZIP. Works by hand, with CI, or with your coding agent. Real screens only - never fake UI.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Start here
+
+| | |
+|---|---|
+| **[Glint-Docs](https://github.com/Glint-Org/Glint-Docs)** | Guides & golden path |
+| **[Glint-Web](https://github.com/Glint-Org/Glint-Web)** | Frames editor & ZIP export |
+| **[Glint-Capture](https://github.com/Glint-Org/Glint-Capture)** | Flutter capture (no emulator) |
+| **[Glint-Bridge](https://github.com/Glint-Org/Glint-Bridge)** | Android / web capture |
+| **[Glint-MCP](https://github.com/Glint-Org/Glint-MCP)** | Agent tools |
+| **[Glint-View](https://github.com/Glint-Org/Glint-View)** | On-device store preview |
+
+```
+Capture / Bridge  →  Web  →  ZIP  →  View (optional)
+```
+
+Ask your agent: *create app store screenshots for my app*
