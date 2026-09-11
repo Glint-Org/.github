@@ -8,7 +8,7 @@ Capture from Flutter or Android, polish in the browser, export a store-ready ZIP
 
 | | |
 |---|---|
-| **[Glint-Docs](https://github.com/Glint-Org/Glint-Docs)** | Guides & golden path |
+| **[Glint-Docs](https://glint-org.github.io/Glint-Docs/)** | Guides & golden path |
 | **[Glint-Web](https://github.com/Glint-Org/Glint-Web)** | Frames editor & ZIP export |
 | **[Glint-Capture](https://github.com/Glint-Org/Glint-Capture)** | Flutter capture (no emulator) |
 | **[Glint-Bridge](https://github.com/Glint-Org/Glint-Bridge)** | Android / web capture |
