@@ -8,12 +8,12 @@ Capture from Flutter or Android, polish in the browser, export a store-ready ZIP
 
 | | |
 |---|---|
-| **[Glint-Docs](https://glint-org.github.io/Glint-Docs/)** | Guides & golden path |
-| **[Glint-Web](https://github.com/Glint-Org/Glint-Web)** | Frames editor & ZIP export |
-| **[Glint-Capture](https://github.com/Glint-Org/Glint-Capture)** | Flutter capture (no emulator) |
-| **[Glint-Bridge](https://github.com/Glint-Org/Glint-Bridge)** | Android / web capture |
-| **[Glint-MCP](https://github.com/Glint-Org/Glint-MCP)** | Agent tools |
-| **[Glint-View](https://github.com/Glint-Org/Glint-View)** | On-device store preview |
+| **[Glint-Docs](https://glintshot.github.io/Glint-Docs/)** | Guides & golden path |
+| **[Glint-Web](https://github.com/GlintShot/Glint-Web)** | Frames editor & ZIP export |
+| **[Glint-Capture](https://github.com/GlintShot/Glint-Capture)** | Flutter capture (no emulator) |
+| **[Glint-Bridge](https://github.com/GlintShot/Glint-Bridge)** | Android / web capture |
+| **[Glint-MCP](https://github.com/GlintShot/Glint-MCP)** | Agent tools |
+| **[Glint-View](https://github.com/GlintShot/Glint-View)** | On-device store preview |
 
 ```
 Capture / Bridge  →  Web  →  ZIP  →  View (optional)
